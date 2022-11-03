@@ -1,0 +1,15 @@
+current directory: /Users/ishigurotasuku/Pictures/就活系/iimon/課題/api_problem/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/ishigurotasuku/.rbenv/versions/2.7.4/bin/ruby -I /Users/ishigurotasuku/.rbenv/versions/2.7.4/lib/ruby/site_ruby/2.7.0 -r ./siteconf20221103-71094-1q2k0i1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ishigurotasuku/Pictures/就活系/iimon/課題/api_problem/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /Users/ishigurotasuku/Pictures/就活系/iimon/課題/api_problem/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ishigurotasuku/Pictures/就活系/iimon/課題/api_problem/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20221103-71094-1c6m9dz

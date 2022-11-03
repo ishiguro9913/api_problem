@@ -1,0 +1,11 @@
+default: &default
+  domain: localhost:3000, localhost:8080
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  domain: https://www.google.com/
