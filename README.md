@@ -1,25 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 株式会社iimon様 技術試験　サーバーサイド　A問題　提出物
 
-Things you may want to cover:
+Ruby on Railsにて作成しました。
+ご確認お願いいたします。
 
-* Ruby version
+以下問題文
 
-* System dependencies
+Django / Ruby on Rails / Laravel / Spring framework / Play Frameworkのどれかを使用してPOST(application/json)で下記情報を受け取ってitemsテーブルに保存するAPIを作成してください。
 
-* Configuration
+<blockquote>
+{
 
-* Database creation
+  "name": "apple",
 
-* Database initialization
+  "price": 200
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# api_problem
+}
+</blockquote>
