@@ -67,3 +67,7 @@ Item Load (0.5ms)  SELECT  "items".* FROM "items" ORDER BY "items"."id" DESC LIM
 ※動作確認環境  
 macOS Big Sur バージョン 11.4  
 Google Chrome バージョン 107.0.5304.87
+
+※使用しているバージョン  
+Ruby 2.7.4  
+Rails 5.2.8.1
